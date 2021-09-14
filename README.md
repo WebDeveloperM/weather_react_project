@@ -8,4 +8,4 @@ npm install
 
 npm start
 
-Enter City or Country
+Enter a city or country
